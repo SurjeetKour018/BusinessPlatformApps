@@ -79,7 +79,7 @@ For subsequent debugging sessions, the following steps are recommended:
 
 All available solution templates can be found in the Apps folder. To access an app, the name is passed as a query parameter to the url you chose for the website. For example, in the following url:
 
-https://yoursite.com/?name=Microsoft-TwitterTemplate
+https://<yoursite>.com/?name=Microsoft-TwitterTemplate
 
 The name of the template Microsoft-TwitterTemplate corresponds to the Microsoft-TwitterTemplate folder inside the Apps directory. If you are a Microsoft Partner, please add your Apps to the Partner directory instead of the Released directory.
 
